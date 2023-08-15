@@ -2,7 +2,8 @@
 
 cd ~/ws_moveit/src/
 git clone https://github.com/UniversalRobots/Universal_Robots_ROS_Driver
-git clone -b calibration_devel https://github.com/fmauch/universal_robot.git fmauch_universal_robot
+# alt git clone -b calibration_devel https://github.com/fmauch/universal_robot.git fmauch_universal_robot
+git clone https://github.com/ProfJust/-fmauch_universal_robot_ur5e_real-.git
 
 
 # doppeltes universal_robot Directory löschen (gibt es jetzt auch unter fmauch)
